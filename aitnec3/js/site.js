@@ -12,11 +12,7 @@
         .on('click', (e) => $(e.target).find('input').click());
     $('.radioWrapper, .checkboxWrapper').find('em, p, .price')
         .on('click', (e) => $(e.target).parent().find('input').click());
-<<<<<<< HEAD
-mbbkhlkljljl
-=======
 
->>>>>>> updatewwwroot
     $('.radioWrapper input').on('click', (e) => {
         let $target = $(e.target);
         let $wrapper = $target.closest('.radioWrapper');
