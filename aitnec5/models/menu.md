@@ -71,7 +71,7 @@
     * 0.2L für 4,40€
 * Fever Tree Mediterranean Tonic Water 
     * 0.2L für 4,40€
-
+    
 ## Bier
 ### Tapped Beer
 * Warsteiner Pilsener  
