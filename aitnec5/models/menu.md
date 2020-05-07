@@ -1,4 +1,5 @@
 ﻿# Getränke
+## Warme Getränke
 * Kaffee für 2,00€
 
 * Cappuccino für 3,00€
