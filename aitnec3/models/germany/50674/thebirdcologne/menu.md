@@ -100,7 +100,7 @@
 * San Miguel
     * 0.2L für 3,60€
     * 6x 0.2L Ice Bucket für 18,00€  
-      *6 Flaschen im Eiskübel zum Preis von 5.*
+      _6 Flaschen im Eiskübel zum Preis von 5._
 
 ### Craft Beer
 * Brooklyn Lager New York
@@ -432,7 +432,7 @@
 [Größe](#groesse)
 
 * Ghetto Burger für 13,00€
-  _Wie im Ghetto: Bun, Patty, Bun ;-)_
+  _Wie im Ghetto: Bun, Patty, Bun_
 
 * Ghetto Deluxe für 15,00€
   _Mit American Chester Cheese belegt_
