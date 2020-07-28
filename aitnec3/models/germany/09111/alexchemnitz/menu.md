@@ -174,11 +174,11 @@ _frischer Limettensaft, Holunderblütensirup,Eistee Zitrone, frische Minze_
 * Fanta Orange[^2][^6]
 	* FL  0.33L für   3,00€
 	* 0.5L   für   4,30€
-	
+
 * Mezzo Mix[^1][^2]
 	* FL 0.33L  für   3,00€ 
 	* 0.5L   für   4,30€
-	
+
 * Red Bull1 OS[^1][^2][^20]
 	* 0.25L für   4,10€
 
@@ -190,7 +190,7 @@ _frischer Limettensaft, Holunderblütensirup,Eistee Zitrone, frische Minze_
 	* Dry Tonic Water[^5] FL  0,2L  für   2,80€
 	* Ginger Ale[^2] FL  0,2L  für   2,80€
 	* Ginger Beer FL  0,2L  für   2,80€
-	
+
 * Orangina 
 	* FL 0,25L   für   3,10€
 
@@ -201,7 +201,7 @@ _frischer Limettensaft, Holunderblütensirup,Eistee Zitrone, frische Minze_
 * Beck's [A3]
 	* 0,3L  für   3,00€
 	* 0,5L  für   4,30€
-	
+
 * Freiberger Pils[A3]
 	* 0.3L  für   3,00€
 	* 0,5L  für   4,30€
@@ -211,13 +211,13 @@ _frischer Limettensaft, Holunderblütensirup,Eistee Zitrone, frische Minze_
 	* 0,5L für   4,30€
 
 * Franziskaner Weissbier
-_Naturtrüb [Al|A3]_
+_Naturtrüb [A1|A3]_
 	* 0,3L  für   3,00€
 	* 0,5L für   4,30€
 
 ### AUS DER FLASCHE
 * Franziskaner Weissbier
-_Kristall Dunkel oder Alkoholfrei [ Al | A3]_
+_Kristall Dunkel oder Alkoholfrei [ A1 | A3]_
 	* FL 0,5L   für   4,30€
 
 
@@ -240,7 +240,7 @@ _Kristall Dunkel oder Alkoholfrei [ Al | A3]_
 	* FL 0,33L  für   3,00€
 
 * Franziskaner Weissbier
-_Alkoholfrei Zitrone [Al | A3] _
+_Alkoholfrei Zitrone [A1 | A3] _
 	* FL 0,33L  für   3,00€
 
 
@@ -611,44 +611,44 @@ _Buffet-Preise gelten ohne Getränke. À la carte verwöhnen wir euch Montag bis
 * Rote Linsen-Kokos Suppe für 5,80€
   _Suppe aus roten Linsen, cremiger Kokosmilch, aromatischen Kräuter und roten Chiflöckchen, dazu ofenfrisches Brot_
 
-* Gebackener Hirtenkaese[^3,6] für 6,90€
+* Gebackener Hirtenkaese[^3][^6] für 6,90€
   _auf mediterranem Antipastigemuese mit Oliven, getrOckneten Tomatan, frischem Rosmarin und Kraeuteroel, dazu knuspriges Kräuter- Knotlauchciabatta_
 
 * Hausgemachte Pizzabrötchen für 4,20€
- _mit Aioli-Dip und Kräuterbutter [al-3| c| g ] _
+ _mit Aioli-Dip und Kräuterbutter [a1-3| c| g ] _
 
 * Bruschetta[^7] für 4,10€
  _knuspriges Ciabatta mit sonnengereiften Tomaten, Rucola, aromatischen italienischen Kräutern, feinem Olivenöl und Grana Padano [ a1-3 | g ]_
 
 * Spicy Nachos[^2] für 5,10€
 [Beilagen](#Guacamole)
-_überbacken mit feurigen Jalapenos und Cheddar Cheese-Soße, mit einem Klecks Cräme fraiche [Al|F|G]_
+_überbacken mit feurigen Jalapenos und Cheddar Cheese-Soße, mit einem Klecks Cräme fraiche [A1|F|G]_
 	* Extra Portion Guacamole für  1,90€
 
 * Süßkartoffel Pommes mit Aioli für 5,10€
 _würzige Süßkartoffel Pommes mit cremigem Aioli-Dip [ c ]_
 
 * Black Tiger Garnelen mit Antipastigemüse für 9,50€
-_in Kräuteröl mariniertes und gebratenes, verarbeitetes Gamelenerzeugnis, mit mediterranem Gemüse und frischem Kräuter-Knoblauchciabatta [Al-3|B]_
+_in Kräuteröl mariniertes und gebratenes, verarbeitetes Gamelenerzeugnis, mit mediterranem Gemüse und frischem Kräuter-Knoblauchciabatta [A1-3|B]_
 
 * Patatas Bravas mit Mojo Rojo für 5,50€
 _gebackene Kartoffelwürfel mit kanarischem Paprika Knoblauch-Dip und Aioli [ c ]_
 
 * Raclette-Kartoffel-Pfännchen[^6,7] für   5,90€
-_herzhafte Kartoffeln mit Speck und Lauch, überbacken mit mild-würzigem Le Rustique Raclettekäse, Röstzwiebeltopping und Kräuterquark zum Dippen [Al|C|G|J]_
+_herzhafte Kartoffeln mit Speck und Lauch, überbacken mit mild-würzigem Le Rustique Raclettekäse, Röstzwiebeltopping und Kräuterquark zum Dippen [A1|C|G|J]_
 
 ## Frisch+Gesund
 [Toppings](#topping)
 
-* Superfood Salad[^6,14] für   8,90€
+* Superfood Salad[^6][^14] für   8,90€
 _getrocknete Feigen, China Samen, Granatapfelkerne, Cranberries,Kürbiskeme, Goji Beeren, Tomaten, Gurken und nussiger Rucola auf marktfrischem gemischten Salat in Rote Bete-Sesam-Vinaigrette [J|K|L]_
 
 
 * Caesar Salad[^7] für   8,10€
-_knackiger Römersalat und marinierte Kräutertomaten in Caesar-Dressing mit würzigem Grana Padano auf knusprigem Kräuter-Knoblauchciabatta direkt aus dem Ofen [Al-3|C|G|J]_
+_knackiger Römersalat und marinierte Kräutertomaten in Caesar-Dressing mit würzigem Grana Padano auf knusprigem Kräuter-Knoblauchciabatta direkt aus dem Ofen [A1-3|C|G|J]_
 
 * Lieblingssalat  
-_gemischte Blattsalate mit Tomaten, Gurken, feinen Möhrenraspeln, Rettich,Wirsing, Rotkraut und Rucola, dazu ofenfrisches Kräuter-Knoblauchciabatta [al-3]_
+_gemischte Blattsalate mit Tomaten, Gurken, feinen Möhrenraspeln, Rettich,Wirsing, Rotkraut und Rucola, dazu ofenfrisches Kräuter-Knoblauchciabatta [a1-3]_
 	* Balsamico-Vinaigrette Holländisches Joghurt-Dressing [A1|C|G|J] für   7,40€
 	* Honey Mustard-Dressing [c | j ] für   7,40€
 	* Asia-Vinaigrette [F|k] für   7,40€
@@ -656,12 +656,12 @@ _gemischte Blattsalate mit Tomaten, Gurken, feinen Möhrenraspeln, Rettich,Wirsi
 	* Rote Bete-Sesam-Vinaigrette [J|K] für   7,40€
 
 * Babyspinat & Ziegenkäse[^7] für   8,90€
-_zarte Babyspinatblätter in Joghurt-Dressing mit Ziegenfrischkäsecrumbles, fruchtiger Birne und karamellisierten Walnüssen, verfeinert mit Honig, dazu Kräuter-Knoblauchciabatta [al-3|C|G|h3|J] _
+_zarte Babyspinatblätter in Joghurt-Dressing mit Ziegenfrischkäsecrumbles, fruchtiger Birne und karamellisierten Walnüssen, verfeinert mit Honig, dazu Kräuter-Knoblauchciabatta [a1-3|C|G|h3|J] _
 
 
 
 * Büffelmozzarella & Tomate  für   10,40€
-_feine Rucolablätter und rote Zwiebeln mit aromatischem Büffelmozzarella und Tomaten, würzig mariniert, dazu Kräuter-Knoblauchciabatta[Al-3|G]_
+_feine Rucolablätter und rote Zwiebeln mit aromatischem Büffelmozzarella und Tomaten, würzig mariniert, dazu Kräuter-Knoblauchciabatta[A1-3|G]_
 
 * Asia Salat für   11,20€
 _Exotischer Salat mit gebratenem verarbeitetem Gamelenerzeugnis, frittierten Glasnudeln, Wirsing, Rotkohl, Gurken, Tomaten und fein geraspelten Möhren auf knackigen Blattsalaten in Asia-Vinaigrette [ b | f | H4|J] _
@@ -672,10 +672,10 @@ _Unsere extragroße McCain Big Baked Potato - frisch dampfend aus dem Ofen - mit
 ## Happy Bowls 
 
 * Oriental Falafel-Bowl[^3,6,7,11]  für   9,90€
-_köstliche Veggie-Bowl aus 1001 Nacht - würzig & kräftig im Geschmack. 5 warme Falafelbällchen, Bulgur, Couscous, geräucherte Auberginen,Hirtenkäse, Paprika, Coleslaw, Chinakohl, Guacamole, Salsa, feine Gemüse- und Tomatenwürfel, dazu fruchtige Tomatencreme [al|c|g|h4|j|k|l] _
+_köstliche Veggie-Bowl aus 1001 Nacht - würzig & kräftig im Geschmack. 5 warme Falafelbällchen, Bulgur, Couscous, geräucherte Auberginen,Hirtenkäse, Paprika, Coleslaw, Chinakohl, Guacamole, Salsa, feine Gemüse- und Tomatenwürfel, dazu fruchtige Tomatencreme [a1|c|g|h4|j|k|l] _
 
 * Thai Style Chicken-Bowl[^6,7,14]   für   9,90€
-_spicy Asia-Bowl - fruchtig, sommertich & leicht. Gegrillte Hähnchenbrustfiletstreifen Couscous, Bulgur, Curry-Mango Chutney, frische Ananas, pikanter Chinakohl, Paprika, Tomaten, rote Zwiebeln, frischer Koriander, Granatapfelkerne, Kürbiskerne, Cranberries, getrocknete Feigen. Goji Beeren, Chiasamen und cremiger Kräuterquark [al|c|g|h4|j|k|l] _
+_spicy Asia-Bowl - fruchtig, sommertich & leicht. Gegrillte Hähnchenbrustfiletstreifen Couscous, Bulgur, Curry-Mango Chutney, frische Ananas, pikanter Chinakohl, Paprika, Tomaten, rote Zwiebeln, frischer Koriander, Granatapfelkerne, Kürbiskerne, Cranberries, getrocknete Feigen. Goji Beeren, Chiasamen und cremiger Kräuterquark [a1|c|g|h4|j|k|l] _
 
 * Büffelmozzarella & Tomate  für   10,40€
 _feine Rucolablätter und rote Zwiebeln mit aromatischem Büffelmozzarella und Tomaten, würzig mariniert, dazu Kräuter-Knoblauchciabatta [ al-3 | G] _
@@ -709,7 +709,7 @@ _große zart-saftige Rinderroulade gefüllt mit Putenbrustschinken, Gewürzgurke
 _zwei würzige Fleischspieße vom Schwein mit Paprika und Zwiebeln in Schaschlik-Soße mit McCain Pommes frites [ j ] _
 
 * Backfisch und Kartoffelsalat[^7]     für   8,90€
-_goldenes Backfischfilet mit Kartoffel-Gurkensalat[al|c|d|f|g|j] und Tomaten, würzig mariniert, dazu Kräuter-Knoblauchciabatta[A1-3|G]_
+_goldenes Backfischfilet mit Kartoffel-Gurkensalat[a1|c|d|f|g|j] und Tomaten, würzig mariniert, dazu Kräuter-Knoblauchciabatta[A1-3|G]_
 
 ## Schnitzel
 
@@ -733,16 +733,16 @@ _Saftiges Rib-Eye-Steak aus der Hochrippe mit einem Rohgewicht von 300 Gramm, la
 ## Gourmetburger
 [Beilagen](#Beilage)
 * Raclette Beef-Burger[^7]  für   8,40€
-_herzhafter Beef-Burger mit geschmolzenem Le Rustique Raclettekäse, fruchtigen Preiselbeeren, Salat, Röstzwiebeln, ALEX Burgersoße und saftiger Fleischtomatenscheibe im Burgerbrötchen [al|g| j] _
+_herzhafter Beef-Burger mit geschmolzenem Le Rustique Raclettekäse, fruchtigen Preiselbeeren, Salat, Röstzwiebeln, ALEX Burgersoße und saftiger Fleischtomatenscheibe im Burgerbrötchen [a1|g| j] _
 
 * Joe's Honey Mustard-Burger[^2,6,7]  für   8,40€
-_herzhafter Beef-Burger mit 200 Gramm Rohgewicht im Burgerbrötchen mit süß-würziger Honig-Senfsoße, gebratenen Zwiebeln, krossem Bacon, knackigem Salat, frischer Fleischtomate und Gurke [al|c|G| J] _
+_herzhafter Beef-Burger mit 200 Gramm Rohgewicht im Burgerbrötchen mit süß-würziger Honig-Senfsoße, gebratenen Zwiebeln, krossem Bacon, knackigem Salat, frischer Fleischtomate und Gurke [a1|c|G| J] _
 
 * ALEX Cheese-Burger[^2]  für   7,40€
-_der klassische Beef-Burger mit 200 Gramm Rohgewicht im Burgerbrötchen mit Cheddarkäse, aromatischer Fleischtomate, Gurke, roten Zwiebeln und knackigem Salat [Al | G | J]_
+_der klassische Beef-Burger mit 200 Gramm Rohgewicht im Burgerbrötchen mit Cheddarkäse, aromatischer Fleischtomate, Gurke, roten Zwiebeln und knackigem Salat [A1 | G | J]_
 
 * White Smoke-Burger[^2]  für   8,40€
-_herzhafter Beef-Burger im Burgerbrötchen mit gebratenen Zwiebeln und Champignons, Salat, aromatischer Fleischtomatenscheibe, Gurke, getoppt mit White Smoke BBQ-Soße [aL|G | J ] _
+_herzhafter Beef-Burger im Burgerbrötchen mit gebratenen Zwiebeln und Champignons, Salat, aromatischer Fleischtomatenscheibe, Gurke, getoppt mit White Smoke BBQ-Soße [a1|G | J ] _
 
 * Caesar Chicken-Burger[^7]  für   7,10€
 _gebratenes, mariniertes Hähnchenbrustfilet und Fleischtomate,mit Grana Padano uberbacken auf knackigem Romanasalat in Caesar-Dressing,serviert im Burgerbrötchen [ AL | c |G | j ] _
@@ -751,33 +751,33 @@ _gebratenes, mariniertes Hähnchenbrustfilet und Fleischtomate,mit Grana Padano 
 _zartes Hähnchenbrustfilet, paniert mit italienischem Käse im Burgerbrötchen mit frischem Rucola, aromatischen Fleischtomaten, würzigem Grana Padano und ALEX Burgersoße [ ai | c | G | J ] _
 
 * SuperfoodVeggie-Burger[^6,14]  für   7,30€
-_100% fleischloser Genuss mit würzigem Walnuss-Cheddar-Bratling,Babyspinat, Rucola, getrockneten Feigen, Goji Beeren, Chiasamen, Gurke und Rote Bete-Sesam-Dressing im Burgerbrötchen [al|c|G|H3 | I | J|K|l] _
+_100% fleischloser Genuss mit würzigem Walnuss-Cheddar-Bratling,Babyspinat, Rucola, getrockneten Feigen, Goji Beeren, Chiasamen, Gurke und Rote Bete-Sesam-Dressing im Burgerbrötchen [a1|c|G|H3 | I | J|K|l] _
 
 ## Curry
 [Beilage](#Beilage-curry)
 * Gemüsecurry Jalfrezi[^2]  für   10,40€
-_würziges indisches Tomatencurry mit Gemüse und Kartoffelstückchen, dazu Basmatireis und Tandoori Garlic Naan [ al | f | g ] _
+_würziges indisches Tomatencurry mit Gemüse und Kartoffelstückchen, dazu Basmatireis und Tandoori Garlic Naan [ a1 | f | g ] _
 
 * Thai Red Chicken Curry für   10,40€
-_zartes Hähnchenfleisch mit Paprika, Bambussprossen, Zitronengras, Ingwer,Knoblauch, Chilipüree, Limettenblättern, Sojasoße und Kokosmilch, dazu Basmatireis und Tandoori Garlic Naan [ al | f ] _
+_zartes Hähnchenfleisch mit Paprika, Bambussprossen, Zitronengras, Ingwer,Knoblauch, Chilipüree, Limettenblättern, Sojasoße und Kokosmilch, dazu Basmatireis und Tandoori Garlic Naan [ a1 | f ] _
 
 * Chicken Tikka Massala[^2]  für   10,40€
-_zarte Hähnchenbrust in einer pikant-cremigen Tomaten-Currysoße mit Joghurt, dazu Basmatireis und Tandoori Garlic Naan [ Al | F |G]_
+_zarte Hähnchenbrust in einer pikant-cremigen Tomaten-Currysoße mit Joghurt, dazu Basmatireis und Tandoori Garlic Naan [ A1 | F |G]_
 
 * Indisches Butter Chicken[^2] für   10,40€
-_zartes, gegrilltes Hähnchenbrustfilet in Tikkamarinade mit cremiger Tomaten-Butter-Currysoße, duftigem Basmatireis und Tandoori Garlic Naan [ al | f | g ] _
+_zartes, gegrilltes Hähnchenbrustfilet in Tikkamarinade mit cremiger Tomaten-Butter-Currysoße, duftigem Basmatireis und Tandoori Garlic Naan [ a1 | f | g ] _
 
 ## Pasta
 [Beilage](#Beilage-curry)
 * Fusilli Capri[^7]  für   9,20€
-_mit Paprika und getrockneten Tomaten in leichter Kräuter-Sahnesoße,getoppt mit Grana Padano und frischer Rucola [ al| f | g ] _
+_mit Paprika und getrockneten Tomaten in leichter Kräuter-Sahnesoße,getoppt mit Grana Padano und frischer Rucola [ a1| f | g ] _
 	* mit zartem,mariniertem Hähnchenbrustfilet für   12,20€
 
 * Spaghettini Gamba[^6,7]  für   12,20€
-_mit in Kräuteröl mariniertem, verarbeitetem Gamelenerzeugnis, getrockneten Tomaten, Chili, frischem Rucola und Grana Padano[al | b|G|l]_
+_mit in Kräuteröl mariniertem, verarbeitetem Gamelenerzeugnis, getrockneten Tomaten, Chili, frischem Rucola und Grana Padano[a1 | b|G|l]_
 
 * Piccata Milanese[^7]  für   11,20€
-_zartes Hähnchenbrustfilet, paniert mit italienischem Hartkäse, dazu Spaghetti in fruchtiger Bärlauch-Tomatensoße und geriebener Grana Padano [ Al | c | G ] _
+_zartes Hähnchenbrustfilet, paniert mit italienischem Hartkäse, dazu Spaghetti in fruchtiger Bärlauch-Tomatensoße und geriebener Grana Padano [ A1 | c | G ] _
 
 ## Beilagen
 * McCain Pommes frites für   3,50€
