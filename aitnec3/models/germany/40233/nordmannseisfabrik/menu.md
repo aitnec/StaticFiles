@@ -102,13 +102,12 @@ _hausgemachtes Rhabarberkompott, Vanilleeis, Schlagsahne(saisonabhängig)_
 * Mango-Lassi für 5,20€
 * Milchshake für 5,20€
  _frische Milch und Dein Eis_
- 
-# Extras
 
+# Extras
 ## Eisgedeck
 * nordmanns standard für 1,90€
 * nordmanns finest für 2,60€
 * Bananenbrot pur für 2,90€
-* Bananenbrot + eine Kugel Vanilleeis für 4,50€
+* Bananenbrot mit eine Kugel Vanilleeis für 4,50€
 
  
