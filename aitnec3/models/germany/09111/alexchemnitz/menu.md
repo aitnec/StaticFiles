@@ -1,8 +1,8 @@
 # Getränke
 
 ## Kaffee
-[Aroma 2 cl](#Kaffee-Aroma)
-[Schuss 2 cl](#Kaffee-Schuss)
+[Aroma 2 cl](#kaffee-aroma)
+[Schuss 2 cl](#kaffee-schuss)
 
 * Cafe Creme / entkoffeiniert für   2,60€
 * Große Tasse Cafe Creme für   4,00€
@@ -634,7 +634,7 @@ _in Kräuteröl mariniertes und gebratenes, verarbeitetes Gamelenerzeugnis, mit 
 * Patatas Bravas mit Mojo Rojo für 5,50€
 _gebackene Kartoffelwürfel mit kanarischem Paprika Knoblauch-Dip und Aioli [ c ]_
 
-* Raclette-Kartoffel-Pfännchen[^6,7] für   5,90€
+* Raclette-Kartoffel-Pfännchen[^6][^7] für   5,90€
 _herzhafte Kartoffeln mit Speck und Lauch, überbacken mit mild-würzigem Le Rustique Raclettekäse, Röstzwiebeltopping und Kräuterquark zum Dippen [A1|C|G|J]_
 
 ## Frisch+Gesund
@@ -671,10 +671,10 @@ _Unsere extragroße McCain Big Baked Potato - frisch dampfend aus dem Ofen - mit
 
 ## Happy Bowls 
 
-* Oriental Falafel-Bowl[^3,6,7,11]  für   9,90€
+* Oriental Falafel-Bowl[^3][^6][^7][^11]  für   9,90€
 _köstliche Veggie-Bowl aus 1001 Nacht - würzig & kräftig im Geschmack. 5 warme Falafelbällchen, Bulgur, Couscous, geräucherte Auberginen,Hirtenkäse, Paprika, Coleslaw, Chinakohl, Guacamole, Salsa, feine Gemüse- und Tomatenwürfel, dazu fruchtige Tomatencreme [a1|c|g|h4|j|k|l] _
 
-* Thai Style Chicken-Bowl[^6,7,14]   für   9,90€
+* Thai Style Chicken-Bowl[^6][^7][^14]   für   9,90€
 _spicy Asia-Bowl - fruchtig, sommertich & leicht. Gegrillte Hähnchenbrustfiletstreifen Couscous, Bulgur, Curry-Mango Chutney, frische Ananas, pikanter Chinakohl, Paprika, Tomaten, rote Zwiebeln, frischer Koriander, Granatapfelkerne, Kürbiskerne, Cranberries, getrocknete Feigen. Goji Beeren, Chiasamen und cremiger Kräuterquark [a1|c|g|h4|j|k|l] _
 
 * Büffelmozzarella & Tomate  für   10,40€
@@ -682,28 +682,28 @@ _feine Rucolablätter und rote Zwiebeln mit aromatischem Büffelmozzarella und T
 
 ## Flammkuchen
 [Flammkuchen](#Flammkuchen)
-* Elsässer Flammkuchen[^6,7] für   7,40€
-_mit Creme fraiche, mild geräuchertem Speck und knackigem Lauch [ al|g ] _
+* Elsässer Flammkuchen[^6][^7] für   7,40€
+_mit Creme fraiche, mild geräuchertem Speck und knackigem Lauch [ a1|g ] _
 
 * Flammkuchen Räucherlachs  für   9,80€
-_mit Creme fraiche und Räucherlachs auf zartem Babyspinat und Honey Mustard-Dressing [ al | c | D|G|J] _
+_mit Creme fraiche und Räucherlachs auf zartem Babyspinat und Honey Mustard-Dressing [ a1 | c | D|G|J] _
 
 * Flammkuchen Büffelmozzarella  für   9,80€
-_mit Creme fraiche, gezupftem Büffelmozzarella, in italienischem Kräuter-Olivenöl marinierten Tomatenwürfeln und frischem Rucola [ al| g ] _
+_mit Creme fraiche, gezupftem Büffelmozzarella, in italienischem Kräuter-Olivenöl marinierten Tomatenwürfeln und frischem Rucola [ a1| g ] _
 
 * Flammkuchen Ziegenfrischkäse[^7]  für   9,80€
-_mit Creme fraiche, in Joghurt-Dressing marinierten Babyspinatblättem, Ziegenfrischkäse-Crumbles, fruchtigen Bimenscheiben und karamellisierten Walnüssen, verfeinert mit Honig [ al| c |g | H3| j ] _
+_mit Creme fraiche, in Joghurt-Dressing marinierten Babyspinatblättem, Ziegenfrischkäse-Crumbles, fruchtigen Bimenscheiben und karamellisierten Walnüssen, verfeinert mit Honig [ a1| c |g | H3| j ] _
 
 ## Unsere Klassiken
 
 * Currywurst[^2,6,7,11]für   6,80€
-_mit würzigen Schmor- und Röstzwiebeln, dazu McCain Pommes frites und Chiliflocken zum Seiberwürzen - so scharf wie du magst[ Al | J ]_
+_mit würzigen Schmor- und Röstzwiebeln, dazu McCain Pommes frites und Chiliflocken zum Seiberwürzen - so scharf wie du magst[ A1 | J ]_
 
 * Caesar Wrap  für   8,10€
 _frischer Romanasalat, fein gebratenes, mariniertes Hähnchenbrustfilet und sonnenverwöhnte Tomaten, mit klassischem Caesar-Dressing, gewickelt in eine Spinattortilla, dazu Pommes frites und Caesar-Dressing zum Dippen [A1|C|G|J] _
 
 * Rinderroulade mit Pfannengemüse[^6,7] für   14,90€
-_große zart-saftige Rinderroulade gefüllt mit Putenbrustschinken, Gewürzgurke,Zwiebeln und Senf, dazu Pfannengemüse aus ßabymöhren, Schwarzwurzel, gelben Karotten und Bohnen auf leckerem Kartoffelstampf [ Al | g |1|J ] _
+_große zart-saftige Rinderroulade gefüllt mit Putenbrustschinken, Gewürzgurke,Zwiebeln und Senf, dazu Pfannengemüse aus ßabymöhren, Schwarzwurzel, gelben Karotten und Bohnen auf leckerem Kartoffelstampf [ A1 | g |1|J ] _
 
 * Schaschlikspieße[^4,8]  für   11,90€
 _zwei würzige Fleischspieße vom Schwein mit Paprika und Zwiebeln in Schaschlik-Soße mit McCain Pommes frites [ j ] _
@@ -720,7 +720,7 @@ _saftiges Schnitzel mit besonders hohem Panadeanteil, dazu goldene McCain Pommes
 _knuspriges Schnitzel mit besonders hohem Panadeanteil, dazu frisch gebratene Champignons und Zwiebeln in feinem Krauterrahm und McCain Pommes frites [G] _
 
 * Schnitzel & Kartoffelsalat[^7]  für   9,80€
-_zartes Schnitzel mit besonders hohem Panadeanteil, dazu Kartoffel-Gurkensalat, ein Spiegelei und leckere Schmorzwiebeln [ Al| c|f |g|J] _
+_zartes Schnitzel mit besonders hohem Panadeanteil, dazu Kartoffel-Gurkensalat, ein Spiegelei und leckere Schmorzwiebeln [ A1| c|f |g|J] _
 
 ## Rump-oder Rib-eye-Steak
 [Steak-Kombi](#Steak-Kombi)
@@ -813,13 +813,13 @@ _gemischte Blattsalate mit Tomate, Gurke, feinen Mohrenraspeln,Rettich, Wirsing,
 _DER HIT für   KIDS: für Ein Euro extra bekommst du eine Capri-Sun zu deinem Kindergericht_
 
 * Hähnchennuggets  für   4,90€
-_mit McCain Pommes frites und Heinz Ketchup [ Ai | G | 1 ] _
+_mit McCain Pommes frites und Heinz Ketchup [ A1 | G | 1 ] _
 
 * Nudeln in Tomatensoße   für   4,90€
 _leckere Spirelü in fruchtiger Tomatensoße [ a1 | g ] _
 
 * Fischstäbchen  für   4,90€
-_knusprige Fischstabchen mit Spinat und Kartoffelpüree [ Al | D| G] _
+_knusprige Fischstabchen mit Spinat und Kartoffelpüree [ A1 | D| G] _
 
 * Spinat und Spiegelei  für   4,90€
 _mit leckerem Kartoffelpüree [ G lc] _
@@ -891,12 +891,13 @@ _mit einer Grlltomate und knusprigen McCain Pommes frites [ G ]_
 
 # Allergene
 
-## A 
+##A
 _Glutenhaltiges Getreide_
 * 1 Weizen [wie Dinkel und Khorasan- Weizen]
 * 2 Roggen
 * 3 Gerste
 * 4 Hafer oder Hybridstämme davon
+
 ## B 
 * Krebstiere und daraus gewonnene Erzeugnisse 
 ## C
@@ -932,7 +933,7 @@ _Schalenfrüchte_
 ## N
 * Weichtiere und daraus gewonnene Erzeugnisse
 
-#Zusatzstoffe
+# Zusatzstoffe
 [^1]:koffeinhaltig
 [^2]:mit Farbstoff
 [^3]:geschwärzt
