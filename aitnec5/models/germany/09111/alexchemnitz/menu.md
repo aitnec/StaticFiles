@@ -452,7 +452,7 @@ _Captain Morgan White und Black, Cointreau, Ananas-, Orangen- und Zitronensaft, 
 ### ALEX SIGNATURE DRINKS
 
 * Heartbreaker[^2]  für   7,40€
-_Captain Morgan Spiced Gold, Pflaumenwein,Pink Grapefruitsirup, Falemumsirup, Zitronensaft, Cranberrynektar[Hi|L] _
+_Captain Morgan Spiced Gold, Pflaumenwein,Pink Grapefruitsirup, Falemumsirup, Zitronensaft, Cranberrynektar[H1|L] _
 
 * Asian Teatime[^2][^6]  für   7,90€
 _Gordon's Dry Gin, Pimm's No. 1, Gurkensirup,Matcha Tee- a Limette-lngwer-Zitronengras-Sirup, Zitronensaft, Apfelsaft, Gurkenscheibe, frische Minze_
