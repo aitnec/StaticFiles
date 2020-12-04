@@ -8,7 +8,7 @@
     * 0.35L für 4,70€
 * Apple Ice Mint
     * 0.35L für 4,70€
-    
+
 ### Soft Drinks
 * Coca-Cola
     * 0.33L für 4,60€
@@ -100,7 +100,7 @@
 * San Miguel
     * 0.2L für 3,60€
     * 6x 0.2L Ice Bucket für 18,00€  
-      *6 Flaschen im Eiskübel zum Preis von 5.*
+      _6 Flaschen im Eiskübel zum Preis von 5._
 
 ### Craft Beer
 * Brooklyn Lager New York
@@ -432,7 +432,7 @@
 [Größe](#groesse)
 
 * Ghetto Burger für 13,00€
-  _Wie im Ghetto: Bun, Patty, Bun ;-)_
+  _Wie im Ghetto: Bun, Patty, Bun_
 
 * Ghetto Deluxe für 15,00€
   _Mit American Chester Cheese belegt_
@@ -451,7 +451,7 @@
 
 * The Stingy Gonzales (Ladies favorite choice) für 16,00€
   _Selbstgemachte Guacamole und Salsa Verde_
-
+
 * The Filthy Harry für 16,00€
   _Bacon und irischer Cheddar_
 
@@ -563,12 +563,12 @@
 
 * Käsesauce (American Swiss-Cheese-Sauce) für 4,00€
 
-* Trüffelmayonnaise, Schälchen Guacamole, Aioli für 2,50€
+* Trüffelmayonnaise, Schälchen Guacamole, Aioli für 2,50€
 
 * BBQ-Sauce, Sour Cream für 2,00€
 
 * Schälchen Salsa Verde, Blue-Cheese-Sauce für 2,50€
 
-* Saucen-Triple (BBQ Sauce, Trüffelmayonnaise, Blue-Cheese-Sauce) für 5,00€
+* Saucen-Triple (BBQ Sauce, Trüffelmayonnaise, Blue-Cheese-Sauce) für 5,00€
 
 * Heinz Ketchup, Bruckmann Mayonnaise für 0,50€
