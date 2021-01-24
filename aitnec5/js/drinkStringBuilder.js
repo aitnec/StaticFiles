@@ -25,7 +25,7 @@ $(function () {
         $.each($('.active'), (i, el) => {
             order += el.id;
         });
-        z
+        
 
 
         
