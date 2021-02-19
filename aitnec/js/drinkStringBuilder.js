@@ -19,13 +19,24 @@ $(function () {
                 order += el.id;
         });
 
-        order += " ";
+        order += " ALS ";
 
         //Get Size
         $.each($('.active'), (i, el) => {
-            order += el.id;
+            if (el.classList.contains("vario")) {
+                order += el.id + " MIT ";
+            }
         });
 
+        //Get Extras 
+        $.each($('.active'), (i, el) => {
+            if (!el.classList.contains("vario")) {
+                order += el.id + ";;";
+            }
+        });
+
+
+        
 
 
         
