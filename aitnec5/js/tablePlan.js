@@ -192,7 +192,7 @@ function exportMD(){
     var output = "";
     var draggables = document.getElementsByClassName("draggable");
 
-    for (var j = 0; j < draggables.length; j++) {
+    for (let j of draggables) {
 
         var style = window.getComputedStyle(draggables[j]);
         var matrix = new WebKitCSSMatrix(style.webkitTransform);

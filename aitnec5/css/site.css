@@ -83,7 +83,7 @@ a.navbar-brand {
 
 main {
     height: calc(100% - 160px);
-    font-family: Arial;
+    font-family: Arial, serif;
     background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,0.5)), color-stop(10%, transparent));
     background-image: linear-gradient(to top, rgba(0,0,0,0.5), transparent 10%)
 }
